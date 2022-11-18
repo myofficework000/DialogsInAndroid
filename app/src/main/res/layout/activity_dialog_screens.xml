@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/_10dp"
+    tools:context=".DialogScreensActivity">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/custom_login_button"
+        android:elevation="10dp"
+        android:text="@string/title_delete"
+        android:textAllCaps="false"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/custom_login_button"
+        android:elevation="10dp"
+        android:text="@string/save"
+        android:textAllCaps="false"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnDialogProgress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/custom_login_button"
+        android:elevation="10dp"
+        android:text="@string/dialog_progress"
+        android:textAllCaps="false"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSelectHobby"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/custom_login_button"
+        android:elevation="10dp"
+        android:text="@string/select_hobby"
+        android:textAllCaps="false"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSelectSkills"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/custom_login_button"
+        android:elevation="10dp"
+        android:text="@string/select_skills"
+        android:textAllCaps="false"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/custom_login_button"
+        android:elevation="10dp"
+        android:text="@string/logout"
+        android:textAllCaps="false"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnBirthDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/custom_login_button"
+        android:elevation="10dp"
+        android:text="@string/select_birthday"
+        android:textAllCaps="false"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnLoginUsingCustomUI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/custom_login_button"
+        android:elevation="10dp"
+        android:text="@string/showLoginDialog"
+        android:textAllCaps="false"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnTimePicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_marginEnd="50dp"
+        android:background="@drawable/custom_login_button"
+        android:elevation="10dp"
+        android:text="@string/time_picker"
+        android:textAllCaps="false"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+
+</LinearLayout>

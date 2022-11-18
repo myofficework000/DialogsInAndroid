@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DialogsInAndroidDemo</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+    <string name="movie_desc">This is a very dengerous movie that make you unhappy so please don\'t watch it just give a rating 5 and leave the app. thanks for your kind understanding. Happy Rating...</string>
+    <string name="button_3">Button 3</string>
+    <string name="sender_chat">Hi, How are you?</string>
+    <string name="have_registered">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="start_time">1:11</string>
+    <string name="end_time">6:20</string>
+    <string name="title_delete">Delete</string>
+    <string name="confirmation_message">Would you like to delete?</string>
+    <string name="confirm">Confirm</string>
+    <string name="deleted_message">it\'s deleted successfully!!</string>
+    <string name="save">Save</string>
+    <string name="title_save">Save</string>
+    <string name="confirmation_message_save">Would you like to save this?</string>
+    <string name="saved_message">Saved successfully!!</string>
+    <string name="dialog_progress">Dialog Progress</string>
+    <string name="loading">Loading pleaase wait a while...</string>
+    <string name="select_hobby">Select your hobby</string>
+    <string name="select_skills">Select skills</string>
+    <string name="select_your_skills">Select your skills</string>
+    <string name="logout">Logout</string>
+    <string name="select_birthday">Select your birthday</string>
+    <string name="showLoginDialog">Show  login dialog</string>
+    <string name="login_success">Logged in Successfully!!</string>
+    <string name="invalid_cred">Invalid credentials</string>
+    <string name="time_picker">Time Picker</string>
+</resources>
